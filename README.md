@@ -12,10 +12,15 @@ The problem we are solving is that in current tech forums, developers invest the
 ### Tech stack and Integrations
 
 **Klaytn:** We have used Klaytn for our NFT contracts of BugBuzzer developer memberships.
+
 **EPNS:** We have used EPNS to update developers by triggering notifications for actions such as NFT membership batch token minting, while purchasing NFT to get specialised access of expert, while purchasing tutorial etc.
+
 **World coin:** Solution by worldcoin to decentralised world id without compromising access of original data of people is hour of need in Web3 world so we integrated it to enable our users to login to BugBuzzer without sharing access of personal documents.
+
 **Filecoin:** Filecoin is used in: 1) Meta data of BugBuzzer NFT memberships 2) To store tutorial articles on Web3 storage and 3) for Q&A forum our Lens Publication (POST NFTs) meta data is also stored in IPFS.
+
 **Covalent:** We have used covalent to fetch all the NFT memberships of developers from BugBuzzer smart contract.
+
 **Livepeer**: Livepeer is used in one to one token gated tech support live streaming between developers and organisations. Any organisation and individuals should have NFT if they want to have one to one tech support or guidance from expert developers of BugBuzzer community.
 
 ## It includes:
